@@ -1,5 +1,4 @@
 # CEN4090L
-Repository for CEN4090L Spring 2021  
-Hunter Markey (hgm18b)  
-Instructor: Dr. Mills  
-Florida State Univeristy
+Edits branch for CEN4090L Spring 2021  
+This is the branch for edits for the project  
+This is different from the main branch  
